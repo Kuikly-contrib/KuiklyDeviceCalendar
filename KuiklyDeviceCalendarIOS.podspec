@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name             = 'KuiklyDeviceCalendar'
+  spec.name             = 'KuiklyDeviceCalendarIOS'
   spec.version          = ENV['kuiklyBizVersion'] || '0.0.1'
   spec.summary          = 'KuiklyDeviceCalendar iOS SDK'
   spec.description      = <<-DESC
