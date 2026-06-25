@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 设备日历读写权限：业务集成方需在宿主 App 的 Manifest 中同步声明，
+         并在运行时通过 DeviceCalendarModule.requestPermissions 申请。 -->
+<!--    <uses-permission android:name="android.permission.READ_CALENDAR" />-->
+<!--    <uses-permission android:name="android.permission.WRITE_CALENDAR" />-->
+
+</manifest>

@@ -1,0 +1,21 @@
+{
+  "name": "@kuiklybase/kuikly-device-calendar-ohos",
+  "version": "0.0.1",
+  "description": "Kuikly DeviceCalendar HarmonyOS Native Module - calendar module implementation for Kuikly framework",
+  "main": "index.ets",
+  "author": "Kuikly Team",
+  "license": "MIT",
+  "dependencies": {
+    "@kuikly-open/render": "2.16.0"
+  },
+  "metadata": {
+    "sourceRoots": [
+      "./src/main"
+    ],
+    "debug": false
+  },
+  "compatibleSdkVersion": 12,
+  "compatibleSdkType": "OpenHarmony",
+  "obfuscated": false,
+  "modelVersion": "5.0.0"
+}
